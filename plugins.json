@@ -11,7 +11,8 @@
 		],
 		"versions": [
 			{
-				"name": "1.3.0"
+				"name": "1.3.0",
+				"hash": "535f3c719ca1169f42a991189a944bc47649e7363883e9688f3c28ddbe2e565f"
 			}
 		]
 	},
@@ -30,7 +31,8 @@
 		],
 		"versions": [
 			{
-				"name": "v1.0.1"
+				"name": "v1.0.1",
+				"hash": "d68da7462da24c3cc93abdbe77c8d7929bbea5258207002599e1f7a0aa0390ec"
 			}
 		]
 	}
