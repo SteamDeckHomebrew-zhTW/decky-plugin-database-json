@@ -1,0 +1,37 @@
+[
+	{
+		"id": 7,
+		"name": "CSS 載入器",
+		"ghname": "SDH-CssLoader",
+		"author": "Such Meme, Many Skill",
+		"description": "將 CSS（主題）動態載入到 Steam Deck 遊戲界面中。",
+		"image_url": "https://cdn.tzatzikiweeb.moe/file/steam-deck-homebrew/artifact_images/CSS%20Loader.png",
+		"tags": [
+			"風格"
+		],
+		"versions": [
+			{
+				"name": "1.3.0"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "系統工具箱",
+		"ghname": "SDH-SystemToolbox",
+		"author": "WerWolv",
+		"description": "控制 Steam Deck 的各種設定的實用工具",
+		"image_url": "https://cdn.tzatzikiweeb.moe/file/steam-deck-homebrew/artifact_images/System%20Toolbox.png",
+		"tags": [
+			"工具",
+			"服務",
+			"核心",
+			"root"
+		],
+		"versions": [
+			{
+				"name": "v1.0.1"
+			}
+		]
+	}
+]
